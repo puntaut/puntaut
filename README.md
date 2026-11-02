@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Building+Scalable+Next.js+%2B+Node.js+Apps;Passionate+about+Computer+Vision+%26+AI;Problem+Solver+%26+Mechanics+Enthusiast" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;Passionate+about+Math+%26+Problem+Solving;AI,+Computer+Vision+%26+Full-Stack;Reverse+Engineering+%26+Optimization" alt="Typing Animation" />
 </div>
 
 # Aut Suttitanamongkol
 
-Computer Engineering student at Chulalongkorn University focusing on AI, computer vision, and full-stack software engineering. I am a dedicated problem solver who loves breaking down how things work—whether I'm exploring new mechanical concepts, building complex structural simulations, or bringing interesting technical ideas to life.
+Computer Engineering student at Chulalongkorn University focusing on AI, computer vision, and full-stack software engineering. My foundation is in math, and my core drive is problem-solving. I love figuring out how different systems work together, finding better ways to build things, and reverse-engineering how people solve problems to discover the most optimal solutions.
 
 ## 🛠 Tech Stack
 
@@ -34,6 +34,6 @@ Computer Engineering student at Chulalongkorn University focusing on AI, compute
 
 ## 📊 GitHub Analytics
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=puntaut&show_icons=true&theme=transparent&hide_border=true&cache_seconds=86400" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=puntaut&layout=compact&theme=transparent&hide_border=true&cache_seconds=86400" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=puntaut&show_icons=true&theme=transparent&hide_border=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=puntaut&layout=compact&theme=transparent&hide_border=true" height="150" alt="Top Languages" />
 </div>
