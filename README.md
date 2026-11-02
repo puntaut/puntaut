@@ -4,7 +4,7 @@
 
 # Aut Suttitanamongkol
 
-Computer Engineering student at Chulalongkorn University focusing on AI, computer vision, and full-stack software engineering. My foundation is in math, and my core drive is problem-solving. I love figuring out how different systems work together, finding better ways to build things, and reverse-engineering how people solve problems to discover the most optimal solutions.
+Computer Engineering student at Chulalongkorn University focusing on AI, computer vision, and full-stack software. I like math, practical problem-solving, and figuring out how complex systems work under the hood. I enjoy reverse-engineering how others tackle hard challenges and using those insights to build better software.
 
 ## 🛠 Tech Stack
 
@@ -29,11 +29,3 @@ Computer Engineering student at Chulalongkorn University focusing on AI, compute
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
-
----
-
-## 📊 GitHub Analytics
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=puntaut&show_icons=true&theme=transparent&hide_border=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=puntaut&layout=compact&theme=transparent&hide_border=true" height="150" alt="Top Languages" />
-</div>
